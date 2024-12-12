@@ -26,6 +26,6 @@ To get started with DocBot on your local machine, follow these steps:
 
 ### Clone the Repository
 
-- **git clone https://github.com/Chanpreet02/DocBotUI.git
+- *git clone https://github.com/Chanpreet02/DocBotUI.git*
 
 ```bash
